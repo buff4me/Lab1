@@ -1,2 +1,1 @@
-# Lab1
-Lab 1 perform
+cout<<"My Name is:"<<Fizan";

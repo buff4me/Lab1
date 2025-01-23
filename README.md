@@ -1,1 +1,1 @@
-cout<<"My Name is:"<<Fizan";
+cout<<"My Name is:"<<Faizan";
